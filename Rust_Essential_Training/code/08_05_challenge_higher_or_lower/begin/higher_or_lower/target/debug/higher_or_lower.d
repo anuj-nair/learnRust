@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/08_05_challenge_higher_or_lower/begin/higher_or_lower/target/debug/higher_or_lower: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/08_05_challenge_higher_or_lower/begin/higher_or_lower/src/main.rs

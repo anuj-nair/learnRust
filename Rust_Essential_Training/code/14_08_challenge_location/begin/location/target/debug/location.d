@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/14_08_challenge_location/begin/location/target/debug/location: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/14_08_challenge_location/begin/location/src/main.rs

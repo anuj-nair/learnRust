@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/05_08_challenge_max_min_mean/begin/challenge_max_min_mean/target/debug/challenge_max_min_mean: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/05_08_challenge_max_min_mean/begin/challenge_max_min_mean/src/main.rs

@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/07_06_challenge_trim_spaces/begin/trim_spaces/target/debug/trim_spaces: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/07_06_challenge_trim_spaces/begin/trim_spaces/src/main.rs

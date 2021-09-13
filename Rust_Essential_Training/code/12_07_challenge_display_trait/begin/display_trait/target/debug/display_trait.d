@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/12_07_challenge_display_trait/begin/display_trait/target/debug/display_trait: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/12_07_challenge_display_trait/begin/display_trait/src/main.rs

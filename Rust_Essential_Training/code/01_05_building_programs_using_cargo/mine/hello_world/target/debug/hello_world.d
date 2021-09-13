@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/01_05_building_programs_using_cargo/mine/hello_world/target/debug/hello_world: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/01_05_building_programs_using_cargo/mine/hello_world/src/main.rs

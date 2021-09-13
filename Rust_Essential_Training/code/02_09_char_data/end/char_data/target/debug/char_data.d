@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/02_09_char_data/end/char_data/target/debug/char_data: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/02_09_char_data/end/char_data/src/main.rs

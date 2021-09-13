@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/09_01_command_line_args/end/command_line_args/target/debug/command_line_args: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/09_01_command_line_args/end/command_line_args/src/main.rs

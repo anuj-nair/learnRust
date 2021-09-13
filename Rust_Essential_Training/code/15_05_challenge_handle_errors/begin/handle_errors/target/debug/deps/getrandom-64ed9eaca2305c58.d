@@ -1,0 +1,11 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/15_05_challenge_handle_errors/begin/handle_errors/target/debug/deps/getrandom-64ed9eaca2305c58.rmeta: /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/lib.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/use_file.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util_libc.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error_impls.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/linux_android.rs
+
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/15_05_challenge_handle_errors/begin/handle_errors/target/debug/deps/getrandom-64ed9eaca2305c58.d: /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/lib.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/use_file.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util_libc.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error_impls.rs /home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/linux_android.rs
+
+/home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/lib.rs:
+/home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error.rs:
+/home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util.rs:
+/home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/use_file.rs:
+/home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util_libc.rs:
+/home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error_impls.rs:
+/home/cherry/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/linux_android.rs:

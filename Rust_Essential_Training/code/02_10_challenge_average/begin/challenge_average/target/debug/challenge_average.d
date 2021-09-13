@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/02_10_challenge_average/begin/challenge_average/target/debug/challenge_average: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/02_10_challenge_average/begin/challenge_average/src/main.rs

@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/11_05_challenge_sum_boxes/begin/sum_boxes/target/debug/sum_boxes: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/11_05_challenge_sum_boxes/begin/sum_boxes/src/main.rs

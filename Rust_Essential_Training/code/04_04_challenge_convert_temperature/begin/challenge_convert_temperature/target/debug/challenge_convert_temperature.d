@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/04_04_challenge_convert_temperature/begin/challenge_convert_temperature/target/debug/challenge_convert_temperature: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/04_04_challenge_convert_temperature/begin/challenge_convert_temperature/src/main.rs

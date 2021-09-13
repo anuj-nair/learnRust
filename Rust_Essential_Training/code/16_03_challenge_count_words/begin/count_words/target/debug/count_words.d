@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/16_03_challenge_count_words/begin/count_words/target/debug/count_words: /home/cherry/documents/projects/learnRust/Rust_Essential_Training/code/16_03_challenge_count_words/begin/count_words/src/main.rs
