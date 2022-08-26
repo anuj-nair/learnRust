@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Code_Challenges/print_any_text_type/target/debug/print_any_text_type: /home/cherry/documents/projects/learnRust/Rust_Code_Challenges/print_any_text_type/src/main.rs

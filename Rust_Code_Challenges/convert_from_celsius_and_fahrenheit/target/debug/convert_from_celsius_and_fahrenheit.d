@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Code_Challenges/convert_from_celsius_and_fahrenheit/target/debug/convert_from_celsius_and_fahrenheit: /home/cherry/documents/projects/learnRust/Rust_Code_Challenges/convert_from_celsius_and_fahrenheit/src/main.rs

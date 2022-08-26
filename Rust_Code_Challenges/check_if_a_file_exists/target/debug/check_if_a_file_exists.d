@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Code_Challenges/check_if_a_file_exists/target/debug/check_if_a_file_exists: /home/cherry/documents/projects/learnRust/Rust_Code_Challenges/check_if_a_file_exists/src/main.rs

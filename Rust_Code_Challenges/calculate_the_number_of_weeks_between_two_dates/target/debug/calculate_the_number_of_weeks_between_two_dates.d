@@ -1,0 +1,1 @@
+/home/cherry/documents/projects/learnRust/Rust_Code_Challenges/calculate_the_number_of_weeks_between_two_dates/target/debug/calculate_the_number_of_weeks_between_two_dates: /home/cherry/documents/projects/learnRust/Rust_Code_Challenges/calculate_the_number_of_weeks_between_two_dates/src/main.rs
